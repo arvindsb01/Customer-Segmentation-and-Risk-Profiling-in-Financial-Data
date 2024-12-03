@@ -1,0 +1,19 @@
+﻿error_id,description
+1,Technical Glitch
+2,Bad Expiration
+3,Bad Card Number
+4,Insufficient Balance
+5,Bad PIN
+6,Bad CVV
+7,Bad Zipcode
+8,"Insufficient Balance, Technical Glitch"
+9,"Bad PIN, Insufficient Balance"
+10,"Bad PIN, Technical Glitch"
+11,"Bad Expiration, Technical Glitch"
+12,"Bad Card Number, Bad Expiration"
+13,"Bad Card Number, Insufficient Balance"
+14,"Bad Expiration, Insufficient Balance"
+15,"Bad Card Number, Bad CVV"
+16,"Bad CVV, Technical Glitch"
+17,"Bad Expiration, Bad CVV"
+18,"Bad CVV, Insufficient Balance"
